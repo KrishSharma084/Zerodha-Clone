@@ -38,3 +38,5 @@ npm install
 npx nodemon
 
 Using the JWT Authentication in user signup/login.
+To host the project using render/versel for the frontend
+And for the database using the MongoDB Atlas
