@@ -36,3 +36,5 @@ npm run dev
 cd backend
 npm install 
 npx nodemon
+
+Using the JWT Authentication in user signup/login.
